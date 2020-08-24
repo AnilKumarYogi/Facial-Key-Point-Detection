@@ -6,3 +6,4 @@ left_eyebrow_outer_end, right_eyebrow_inner_end, right_eyebrow_outer_end, nose_t
 mouth_center_top_lip, mouth_center_bottom_lip
 
 The python notebook explains step-by-step how the model is bulit and trained.
+The training dataset is taken from Kaggle downloading link is - https://www.kaggle.com/c/facial-keypoints-detection
